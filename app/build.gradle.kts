@@ -8,7 +8,7 @@ android {
     namespace = logFoxPackageName
     defaultConfig {
         applicationId = logFoxPackageName
-        minSdkVersion 23;
+        minSdk 23
         versionCode = 62
         versionName = "2.0.2"
     }
